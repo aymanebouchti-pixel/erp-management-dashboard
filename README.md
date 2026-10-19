@@ -65,6 +65,19 @@ The dashboard is designed to provide a visual overview of business performance t
 - Automate data refresh.
 - Extend the database with suppliers and purchasing processes.
 
+## What I Learned
+
+Through this project, I developed practical skills in information systems and data analysis:
+
+- **Database Modeling:** designing a relational database and understanding relationships between tables.
+- **SQL:** creating tables, inserting data, using joins and aggregations, creating SQL views, and calculating business metrics.
+- **Business Analysis:** monitoring sales, payments, invoices, inventory, and estimated profit.
+- **Power BI:** importing CSV data, creating KPIs, building charts, and designing interactive dashboards.
+- **Data Quality:** checking data consistency and comparing results between SQL and Power BI.
+
+This project helped me better understand how an ERP database can support reporting, performance monitoring, and data-driven decision-making.
+
+
 ## Project Context
 
 This is an educational project developed to practice SQL, relational database design, information systems, and Business Intelligence.
