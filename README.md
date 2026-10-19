@@ -1,5 +1,5 @@
 # ERP Management & Business Intelligence Dashboard
-English version | [Version française](README.fr.md)
+English version | [Version française](README.FR.md)
 
 ## Overview
 
