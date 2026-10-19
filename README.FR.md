@@ -1,5 +1,5 @@
 # Projet ERP — Gestion et analyse des données
-[English version](README.md) | Version française
+[English version](README.md) 
 
 ## Présentation du projet
 
